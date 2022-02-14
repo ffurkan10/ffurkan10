@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fatih Furkan Kocabiyik. I'm currently work as HR Intern at Iller Bankasi 
+- 👋 Hi, I’m Fatih Furkan Kocabiyik. I'm not currently work anywhere.
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning JavaScript from YouTube, Frontend Mentor, Patika etc. 
 - 📫 How to reach me => [LinkedIn](https://www.linkedin.com/in/ffurkan/)
 
 <!---
