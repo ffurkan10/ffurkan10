@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fatih Furkan Kocabiyik.
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React from YouTube, Frontend Mentor, Patika etc. 
-- 💻 I've experienced with HTML, CSS, SCSS, Bootstrap, JavaScript, React (in-progress...)
+- 💻 I've experienced with HTML, CSS, SCSS, Bootstrap, JavaScript, React js, Next js, React Native, Node js
 - 📫 How to reach me => [LinkedIn](https://www.linkedin.com/in/ffurkan/)
 
 <!---
